@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Tom\source\repos\Difference Array\Difference Array\main.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tom\source\repos\Difference Array\Difference Array\main.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tom\source\repos\Difference Array\Difference Array\main.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+  Difference Array.vcxproj -> C:\Users\Tom\source\repos\Difference Array\Debug\Difference Array.exe
